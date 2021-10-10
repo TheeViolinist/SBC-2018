@@ -5,7 +5,7 @@
 
 
 <div align = "center">
-<img src = "https://github.com/TheeViolinist/SBC-2018/blob/main/src/assets/to_readme/image1.jpeg" width = "300px"/>
+<img src = "https://github.com/TheeViolinist/SBC-2018/blob/main/src/assets/to_readme/image1.jpeg" width = "200px"/>
 </div>
 
 
