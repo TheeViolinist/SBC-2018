@@ -11,14 +11,16 @@
 the main code is really easy, just notice that  all input different than 1 it's right, so here is:
 ```c
 while(casos--)
-    {
-        scanf("%d", &porta);
+{
 
-        if (porta != 1)
-        {
-            pontos++;
-        }
-    }
+scanf("%d", &porta);
+
+if (porta != 1)
+{
+    pontos++;
+}
+
+}
 ```
 
 
