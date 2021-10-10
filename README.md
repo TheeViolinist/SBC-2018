@@ -1,5 +1,7 @@
 
- 			+ 2018 SBC results
+<div align = "center" >
+ 2018 SBC results
+ <div>
 
 
 <div align = "center">
